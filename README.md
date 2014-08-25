@@ -1,10 +1,10 @@
-# "Fork me on GitHub" CSS ribbon
+# "I support BetaNYC" CSS ribbon
 
 This is a recreation of the [Fork me on GitHub ribbon](https://github.com/blog/273-github-ribbons)
-in CSS, hence resolution-independent.
+in [CSS](http://simonwhitaker.github.io/github-fork-ribbon-css/), hence resolution-independent.
 
-See 'em in action! <http://simonwhitaker.github.io/github-fork-ribbon-css/>
+See 'em in action! <http://betanyc.github.io/betanyc-support-ribbon-css/>
 
-Feel free to fork, tweak and send me a pull request.
+Feel free to fork, tweak and send us a pull request.
 
 Note: this project is not sponsored or in any way endorsed by GitHub.
