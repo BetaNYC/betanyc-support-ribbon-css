@@ -1,11 +1,11 @@
 {
-  "name": "github-fork-ribbon-css",
-  "version": "0.1.1",
-  "homepage": "http://simonwhitaker.github.io/github-fork-ribbon-css/",
+  "name": "betanyc-support-ribbon-css",
+  "version": "0.0.1.a",
+  "homepage": "http://betanyc.github.io/betanyc-support-ribbon-css/",
   "authors": [
-    "Simon Whitaker"
+    "Noel Hidalgo"
   ],
-  "description": "\"Fork me on GitHub\" CSS ribbon",
+  "description": "\"We support BetaNYC!\" CSS ribbon",
   "main": [
     "gh-fork-ribbon.css",
     "gh-fork-ribbon.ie.css"
@@ -14,7 +14,10 @@
     "css",
     "fork",
     "GitHub",
-    "ribbon"
+    "ribbon",
+    "CivicHacking",
+    "BetaNYC",
+    "CodeisLaw"
   ],
   "license": "MIT",
   "ignore": [

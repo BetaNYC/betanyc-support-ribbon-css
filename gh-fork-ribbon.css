@@ -1,9 +1,10 @@
 /*!
- * "Fork me on GitHub" CSS ribbon v0.1.1 | MIT License
- * https://github.com/simonwhitaker/github-fork-ribbon-css
+ * "We support BetaNYC" CSS ribbon v0.0.1 | MIT License
+ * http://betanyc.github.io/betanyc-support-ribbon-css/
 */
 
 /* Left will inherit from right (so we don't need to duplicate code) */
+
 .github-fork-ribbon {
   /* The right and left classes determine the side we attach our banner to */
   position: absolute;
@@ -29,7 +30,6 @@
 
   /* Set the font */
   font: 700 13px "Helvetica Neue", Helvetica, Arial, sans-serif;
-
   z-index: 9999;
   pointer-events: auto;
 }
