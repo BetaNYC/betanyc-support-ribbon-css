@@ -6,11 +6,11 @@
     "politicalEntity":"BetaNYC",
     "type":"Swag",
     "needs": [
-        {"need": "Adoption"},
+        {"need": "Adoption"}
     ],
     "categories": [
         {"category": "Advertisement"},
         {"category": "Fundraising"},
-        {"category": "Support"};
+        {"category": "Support"}
     ]
 }
