@@ -1,0 +1,16 @@
+{
+    "status": "Deployed",
+    "thumbnailUrl": "https://raw.githubusercontent.com/BetaNYC/What-is-BetaNYC/master/BetaNYC%20Logos/BetaNYC_short_blue_on_white_empire.png",
+     "bornAt": "Communications",
+    "geography": "NYC",
+    "politicalEntity":"BetaNYC",
+    "type":"Swag",
+    "needs": [
+        {"need": "Adoption"},
+    ],
+    "categories": [
+        {"category": "Advertisement"},
+        {"category": "Fundraising"},
+        {"category": "Support"};
+    ]
+}
